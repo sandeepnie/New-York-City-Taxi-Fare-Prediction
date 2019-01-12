@@ -15,3 +15,4 @@ The goal of this project is to predict the fare from the given latitude and long
 Files:
 New York City Taxi Fare Prediction.ipynb ->  This is the jupyter notebook file which contains all the code required to calculate and predict the fare.
 Dataset -> This file has link to website from where the dataset of this problem can be downloaded.
+ 
